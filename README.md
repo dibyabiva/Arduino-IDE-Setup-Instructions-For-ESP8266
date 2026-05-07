@@ -24,6 +24,7 @@ You should now be able to search for Arduino IDE in your applications menu.
 You can delete the downloaded files. It has been set up inside ~/arduino-ide
 
 ## ESP8266 support for Arduino IDE
+- Launch Arduino IDE
 - Go to File > Preferences
 - Add `http://arduino.esp8266.com/stable/package_esp8266com_index.json`  to Additional boards manager URLs
 - Try blink example from File > Examples > ESP8266 > Blink

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=0
+Name=Arduino IDE
+Comment=Arduino IDE
+Exec=~/arduino-ide/run.sh
+StartupNotify=false
+Keywords=arduino ide
+Icon=~/arduino-ide/logo.png
+Terminal=false

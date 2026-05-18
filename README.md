@@ -1,4 +1,4 @@
-# Arduino IDE Setup Instructions For ESP8266
+# Arduino IDE Setup Instructions For Ubuntu
 
 ## Arduino IDE Installation
 - Enable dialout permissions for your user

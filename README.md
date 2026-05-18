@@ -26,5 +26,8 @@ You can delete the downloaded files. It has been set up inside ~/arduino-ide
 ## ESP8266 support for Arduino IDE
 - Launch Arduino IDE
 - Go to File > Preferences
-- Add `http://arduino.esp8266.com/stable/package_esp8266com_index.json`  to Additional boards manager URLs
+- Add the following to Additional boards manager URLs
+  ```
+  http://arduino.esp8266.com/stable/package_esp8266com_index.json
+  ```
 - Try blink example from File > Examples > ESP8266 > Blink
